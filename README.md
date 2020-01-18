@@ -11,7 +11,7 @@ The data used for this project can be found on the kaggle website here:  https:/
 ## Getting Started
 --------------------------------------------------------------------------------------------------------------------------
 ## Installation
-- clone this repository
+- clone this repository and cd into the folder
 
 ```
 git clone https://github.com/CateGitau/cat_dog_cnn.git
@@ -20,7 +20,7 @@ cd cat_dog_cnn.git
 
 - Run the following command to install the required packages for this project
 
-```pip install -r requirement.txt```
+```pip install -r requirements.txt```
 
 # Usage
 To execute the code, run the following in your terminal
