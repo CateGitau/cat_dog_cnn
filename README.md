@@ -1,7 +1,7 @@
 ## Cat and Dog classifier using Pytorch
 
-In this project we classify whether images contain either a cat or dog. It's not perfect, 
-still needs some tweaking but the main objective of this project was to learn how to use convolutional neural networks for classification usng Pytorch.
+In this project we classify whether images contain either a cat or a dog. It's not perfect, 
+still needs some tweaking but the main objective of this project was to learn how to use convolutional neural networks for classification using Pytorch.
 
 ![alt text](https://github.com/CateGitau/cat_dog_cnn/blob/master/images/image2.jpg)
 ## Data Used
